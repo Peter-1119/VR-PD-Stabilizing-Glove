@@ -1,0 +1,8 @@
+../Core/Src/Mahony.c:27:6:q_init	24	static
+../Core/Src/Mahony.c:53:6:Record_Gyro_bias	32	static
+../Core/Src/Mahony.c:66:6:statistic_gyro_bias	16	static
+../Core/Src/Mahony.c:74:6:qpq	40	static
+../Core/Src/Mahony.c:93:6:qGq	24	static
+../Core/Src/Mahony.c:106:6:q_prod	48	static
+../Core/Src/Mahony.c:118:6:vectorCross	16	static
+../Core/Src/Mahony.c:124:6:mahony	48	static
