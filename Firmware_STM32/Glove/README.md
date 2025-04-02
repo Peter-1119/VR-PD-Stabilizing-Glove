@@ -15,11 +15,10 @@ This project focuses on the firmware development for a device aimed at analyzing
 
 ## Technical Details
 
-*   **Microcontroller**: STM32 (or other suitable model)
-*   **Development Environment**: (e.g., STM32CubeIDE)
+*   **Microcontroller**: STM32
+*   **Development Environment**: STM32CubeIDE
 *   **Programming Language**: C/C++
-*   **FFT Library**: (e.g., CMSIS-DSP)
-*   **Attitude Calculation**: (e.g., Quaternion algorithms)
+*   **Attitude Calculation**: Mahony Filter
 *   **Communication Protocol**: Bluetooth and USB
 
 ## Directory Structure
