@@ -16,8 +16,7 @@ This project focuses on the Computer Virtual Reality (VR) component of a system 
 
 *   **Game Engine**: Unity
 *   **Programming Language**: C#
-*   **VR Device**: (e.g., Oculus Rift, HTC Vive)
-*   **Communication Protocol**: (e.g., TCP/IP, UDP)
+*   **Communication Protocol**: BLE or USB
 
 ## Directory Structure
 
