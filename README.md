@@ -26,7 +26,7 @@ The glove is designed to counteract tremors using an embedded motor and sensors 
     └──  AirWrite (Virtual Reality Application)
 ```
 
-## 1. Glove_Function
+## 1. Firmware_STM32
 This module manages the STM32 microcontroller for the glove device, including:
 - Processing sensor data within the glove
 - Controlling the motor and stabilizing hand tremors
@@ -39,7 +39,7 @@ This module focuses on the electronic and mechanical design of the glove, includ
 - 3D modeling and mechanical development
 - Power management and port configurations
 
-## 3. VR_Unity_Application
+## 3. SoftWare_Unity
 This module develops a VR application for rendering the glove device and tracking hand posture, including:
 - Hand gesture tracking and posture detection
 - 3D model rendering and interaction
