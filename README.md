@@ -4,6 +4,14 @@
 
 This project consists of three main components, each responsible for different aspects of the glove device, including microcontroller functionality, hardware design, and computer application development.
 
+## Device Overview
+
+Here is an image of the hand tremor stabilization glove:
+
+![Glove Device](https://github.com/Peter-1119/VR-PD-Stabilizing-Glove/blob/main/Hardware_Design/Device%20Pics/515725_0.jpg)
+
+The glove is designed to counteract tremors using an embedded motor and sensors to analyze and stabilize hand movements.
+
 ## Project Structure
 
 ```
@@ -36,6 +44,12 @@ This module develops a VR application for rendering the glove device and trackin
 - Hand gesture tracking and posture detection
 - 3D model rendering and interaction
 - VR integration and application development
+
+Here is a demonstration of how the glove is visualized and functions in a virtual reality environment:
+
+![VR Demo](https://github.com/Peter-1119/VR-PD-Stabilizing-Glove/blob/main/VR_Unity_Application/AirWrite/Results/AirWrite-ezgif.com-video-to-gif-converter.gif)
+
+The VR application allows users to see their hand movements in real-time, providing valuable feedback and interaction within a virtual space.
 
 ## Installation & Usage
 For detailed installation and development instructions, please refer to the `README.md` files in each subdirectory.
