@@ -39,7 +39,7 @@ This module focuses on the electronic and mechanical design of the glove, includ
 - 3D modeling and mechanical development
 - Power management and port configurations
 
-## 3. SoftWare_Unity
+## 3. Software_Unity
 This module develops a VR application for rendering the glove device and tracking hand posture, including:
 - Hand gesture tracking and posture detection
 - 3D model rendering and interaction
