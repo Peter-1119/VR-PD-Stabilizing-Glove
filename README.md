@@ -7,21 +7,15 @@ This project consists of three main components, each responsible for different a
 ## Project Structure
 
 ```
-📦 HandTremorGlove
-├── 📂 Glove_Function/STM32
-│   ├── Core/Src/*.c                   -- Fundamental GPIO functions (timer, PWM, I2C) and algorithms (Mahony Filter, FFT)
-│   └── STM32_WPAN/App/custom_app.c    -- Motor control and message transmission via USB and BLE
-│
-├── 📂 Hardware_Design
-│   ├── Glove_Board/                   -- PCB layout for the glove board
-│   ├── InertialSensor/                -- PCB layout for the sensor module
-│   ├── Shells/                        -- Housing for the main control circuit and motor
-│   └── Flywheel/                      -- 3D model of the flywheel
-│
-└── 📂 VR_Unity_Application/AirWrite/Assets
-    ├── BasicFunc/*.cs                 -- Hand finger node calculations and global storage
-    ├── Scenes/*                       -- Scene functionalities and fundamental settings
-    └── ./*.cs                         -- Event handling functions for each scene
+📦 HandTremorGlove (Hand Tremor Stabilization Glove Project)
+├── 📂 Firmware_STM32 (STM32 Firmware Development)
+│   └── Glove (Glove Firmware Code)
+├── 📂 Hardware_Design (Hardware Design)
+│   ├── KiCad (Circuit Design)
+│   ├── TinkerCad (Enclosure Design)
+│   └── SolidWorks (Mechanical Design)
+└── 📂 Software_Unity (Unity Software Development)
+    └──  AirWrite (Virtual Reality Application)
 ```
 
 ## 1. Glove_Function
