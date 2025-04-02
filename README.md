@@ -47,7 +47,7 @@ This module develops a VR application for rendering the glove device and trackin
 
 Here is a demonstration of how the glove is visualized and functions in a virtual reality environment:
 
-![VR Demo](https://github.com/Peter-1119/VR-PD-Stabilizing-Glove/blob/main/VR_Unity_Application/AirWrite/Results/AirWrite-ezgif.com-video-to-gif-converter.gif)
+![VR Demo](https://github.com/Peter-1119/VR-PD-Stabilizing-Glove/blob/main/Software_Unity/AirWrite/Results/AirWrite-ezgif.com-video-to-gif-converter.gif)
 
 The VR application allows users to see their hand movements in real-time, providing valuable feedback and interaction within a virtual space.
 
